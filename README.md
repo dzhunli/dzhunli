@@ -10,7 +10,7 @@
 <br>
 <br>
 <div align="center">
-    <td>
+<!--    <td>
         <table>
             <tr>
                 <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzhunli&theme=transparent" alt="Stats"></td>
@@ -18,6 +18,7 @@
             </tr>
         </table>
     </td>
+    -->
     </table>
     <img src="https://komarev.com/ghpvc/?username=dzhunli&color=0D1117&style=flat-square"/>
 </div>
