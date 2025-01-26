@@ -48,6 +48,9 @@
     <img src="https://img.shields.io/badge/fluentd-0E83C8.svg?style=for-the-badge&logo=fluentd&logoColor=white&color=%230E83C8" alt="Fluentd">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
     <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&&logoColor=white" alt="Helm">
+    <img src="https://img.shields.io/badge/-Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman">
+    <img src="https://img.shields.io/badge/Zabbix-Tiny?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
+
 </div>
 <div>
 </table>
